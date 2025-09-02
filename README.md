@@ -1,6 +1,8 @@
 # Técnicas de Programación Concurrente I -Trabajo Práctico 2 “Heladería Robotizada”
 Trabajo grupal para la materia Técnicas de Programación Concurrente I de la Facultad de Ingeniería de la Universidad de Buenos Aires (**FIUBA**), durante el primer cuatrimestre del año 2024. Consiste en la implementación de un sistema concurrente y distribuido donde se simula una heladería manejada por: pantallas que reciben pedidos y robots que los sirven. El trabajo hace uso de conceptos y técnicas de concurrencia para la realización y coordinación de las diversas tareas del sistema de manera eficiente. Para más detalle sobre el trabajo, se tiene disponible el [enunciado] (https://concurrentes-fiuba.github.io/2024_1C_tp2.html).
 
+El trabajo fue desarrollado en un repositorio privado de la organización de la materia, por lo que no es posible visualizar en este proyecto el historial completo de commits, ramas y seguimiento detallado del proceso
+
 ## Integrantes
 
 Manuel Pol
